@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olga. You can call me Lasana @lasna-arrow
+- 👋 Hi, I’m Olga. You can call me Lasana @lasana-arrow
 - 👀 I'm going to hold some WordPress scripts or other scripts here not to lose them
 - 🌱 I make websites with different CMS, but I like WordPress most of all. I write on PHP, JavaScript and now I'm learning Python to see if it is better for writing Telegram bots then other languages (as people say)
 - 📫 You can write me to sagittarius.group@gmail.com or lasana.arrow@yandex.ru
